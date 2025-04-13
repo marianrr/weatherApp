@@ -1,0 +1,36 @@
+*,
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aquamarine;
+    height: 100lvh;
+    width: 100lvw;
+    /* align-content: center; */
+    text-align: center;
+    font-weight: bolder;
+}
+
+#weather {
+    height: 40lvh;
+    position: relative;
+    top: 30lvh;
+    margin: auto;
+    font-size: 50px;
+}
+
+
+
+p,
+input,
+form {
+    margin: 5px 0;
+}
+
+label {
+    font-size: 30px;
+}
