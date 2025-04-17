@@ -40,4 +40,8 @@ label {
         top: 30px;
         height: 30svh;
     }
+
+    body {
+        height: 100svh;
+    }
 }
